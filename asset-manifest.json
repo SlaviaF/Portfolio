@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SlaviaF/React-Tailwind-Portfolio/static/css/main.c44aa885.css",
-    "main.js": "/SlaviaF/React-Tailwind-Portfolio/static/js/main.ee2bcf6d.js",
-    "static/media/meal_sharing_app.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/meal_sharing_app.3ad768b5c221344e1481.png",
-    "static/media/weather_app.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/weather_app.5708fe7de596f7209586.png",
-    "static/media/giphy.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/giphy.e9b261092465e5634935.png",
-    "static/media/word_pay.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/word_pay.3d35215b75cbcc40dbd2.png",
-    "static/media/simply_name_it.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/simply_name_it.caf26640ae18de978907.png",
-    "static/media/github_user.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/github_user.6b8e7f988d2fe20c97b3.png",
-    "static/media/svelte.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/svelte.48f83168a12e6f179eb7.png",
-    "static/media/react.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/html.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/SlaviaF/React-Tailwind-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/SlaviaF/React-Tailwind-Portfolio/index.html",
-    "main.c44aa885.css.map": "/SlaviaF/React-Tailwind-Portfolio/static/css/main.c44aa885.css.map",
-    "main.ee2bcf6d.js.map": "/SlaviaF/React-Tailwind-Portfolio/static/js/main.ee2bcf6d.js.map"
+    "main.css": "/SlaviaF/new-portfolio/static/css/main.c44aa885.css",
+    "main.js": "/SlaviaF/new-portfolio/static/js/main.d02d84af.js",
+    "static/media/meal_sharing_app.png": "/SlaviaF/new-portfolio/static/media/meal_sharing_app.3ad768b5c221344e1481.png",
+    "static/media/weather_app.png": "/SlaviaF/new-portfolio/static/media/weather_app.5708fe7de596f7209586.png",
+    "static/media/giphy.png": "/SlaviaF/new-portfolio/static/media/giphy.e9b261092465e5634935.png",
+    "static/media/word_pay.png": "/SlaviaF/new-portfolio/static/media/word_pay.3d35215b75cbcc40dbd2.png",
+    "static/media/simply_name_it.png": "/SlaviaF/new-portfolio/static/media/simply_name_it.caf26640ae18de978907.png",
+    "static/media/github_user.png": "/SlaviaF/new-portfolio/static/media/github_user.6b8e7f988d2fe20c97b3.png",
+    "static/media/svelte.png": "/SlaviaF/new-portfolio/static/media/svelte.48f83168a12e6f179eb7.png",
+    "static/media/react.png": "/SlaviaF/new-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/SlaviaF/new-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/SlaviaF/new-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/SlaviaF/new-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/SlaviaF/new-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/SlaviaF/new-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/SlaviaF/new-portfolio/index.html",
+    "main.c44aa885.css.map": "/SlaviaF/new-portfolio/static/css/main.c44aa885.css.map",
+    "main.d02d84af.js.map": "/SlaviaF/new-portfolio/static/js/main.d02d84af.js.map"
   },
   "entrypoints": [
     "static/css/main.c44aa885.css",
-    "static/js/main.ee2bcf6d.js"
+    "static/js/main.d02d84af.js"
   ]
 }
