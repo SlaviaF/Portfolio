@@ -18,7 +18,7 @@ const About = () => {
             <p>Hi. I'm Slavia. Nice to meet you. Please take a look around </p>
           </div>
           <div>
-            <p>A passionate web developer with experience in Svelte and ReactJS frameworks.
+            <p>A passionate web developer with experience in Svelte and ReactJS frameworks  with a flair in User Experience. 
                 </p>
           </div>
         </div>
