@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#04181a] text-gray-300">
       <div>Slavia Portfolio</div>
-      <ul class="hidden md:flex">
+      <ul class="links hidden md:flex">
         <li>
           <Link to="home" smooth={true} duration={500}>
             Home
@@ -54,7 +54,7 @@ const Navbar = () => {
             : "absolute top-0 left-0 w-full h-screen bg-[#04181a] flex flex-col justify-center items-center text-center"
         }
       >
-        <ul>
+        <ul className="links">
           <li className="py-6 text-3xl">
             <Link onClick={handleClick} to="home" smooth={true} duration={500}>
               Home

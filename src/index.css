@@ -14,7 +14,7 @@
     @apply cursor-pointer;
   }
 
-  input {
+  input, textarea {
     @apply p-2 bg-green-50 rounded-sm text-black;
   }
 }
@@ -36,5 +36,7 @@
     @apply flex justify-between items-center w-full text-gray-300;
   }
 
-  
+  .links li {
+    @apply hover:text-yellow-700;
+  }
 }
