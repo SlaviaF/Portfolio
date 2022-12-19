@@ -14,7 +14,7 @@ const Home = () => {
         </h2>
 
         <p className="text-gray-600 py-4 max-w-[600px]">
-          I am a webdeveloper specialising in building exceptional digital
+          I am a web developer specialising in building exceptional digital
           experience.
         </p>
         <div>
