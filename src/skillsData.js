@@ -6,7 +6,7 @@ import React from "./assets/react.png";
 import Tailwind from "./assets/tailwind.png";
 import Svelte from "./assets/svelte.png";
 import Node from "./assets/node.png";
-import Git from "./assets/git.png";
+import mySQL from "./assets/mySQL.png";
 
 const skillsData =[
     {
@@ -41,8 +41,8 @@ const skillsData =[
 },
 {
     id: 8,
-    img: Git, 
-    skill: "Git"
+    img: mySQL, 
+    skill: "MySQL"
 }, 
 {
     id: 9,
