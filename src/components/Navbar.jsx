@@ -111,11 +111,7 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className="bg-[#567796]">
-            <a href="https://www.facebook.com/slavia.furtado">
-              Facebook <FaFacebook size={30} />
-            </a>
-          </li>
+      
         </ul>
       </div>
     </div>
